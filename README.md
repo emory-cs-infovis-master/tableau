@@ -34,7 +34,9 @@ Your report should consist of four parts.
 Your document should be in PDF format and is limited to a maximum of 5 pages, no cover sheet. Use Times Roman 11 point type with normal margins, 1.5 line spacing. 
 
 ### Acknowledgments: 
-Tableau's data visualization software is provided through the Tableau for Teaching program. We thank Tableau for making the system available to students in class.
+Tableau's data visualization software is provided through the Tableau for Teaching program. We thank Tableau for making the system available to students in class. 
+
+This assignment was adapted from an assignment designed by [Dr. Alex Godwin](https://www.jagodwin.com).
 
 Data was obtained from the following sources:
 - Tennis: Jeff Sackmann https://github.com/JeffSackmann/tennis_atp
