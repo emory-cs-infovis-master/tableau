@@ -33,6 +33,19 @@ Your report should consist of four parts.
 ## Submission:
 Your document should be in PDF format and is limited to a maximum of 5 pages, no cover sheet. Use Times Roman 11 point type with normal margins, 1.5 line spacing. 
 
+## Grading: 
+- [5%] Description of dataset
+
+For each of the three questions: 
+- [5%] State the question
+- [5%] Clearly state the answer to the question
+- [5%] Visually support the answer with a screenshot from your analysis
+- [10%] Describe an insight and how Tableau helped or hindered the discovery
+
+Plus, 
+- [10%] Thoughtful critique of Tableau's strengths and weaknesses
+- [10%] Formatting
+
 ### Acknowledgments: 
 Tableau's data visualization software is provided through the Tableau for Teaching program. We thank Tableau for making the system available to students in class. 
 
