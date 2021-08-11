@@ -1,4 +1,4 @@
-# Homework 6: Conduct Exploratory Data Analysis with Tableau
+# HW 5: Conduct Exploratory Data Analysis with Tableau
 
 This assignment will familiarize you with the commercial information visualization system Tableau (get it at https://www.tableau.com/academic/students#form).
 
