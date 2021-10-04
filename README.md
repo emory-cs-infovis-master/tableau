@@ -17,7 +17,7 @@ Tableau includes a few sample datasets, but often it's best to learn with someth
 - What cereals would you recommend to someone on a diet who still wants some good taste?
 - Does the nutritional value of cereals vary a lot? If so, how?
 etc.
-- Don't just generate simple queries like "Which cereal has the most sugar?" that can trivially be found with a spreadsheet. Further, try not to make all of your questions be about correlations, which seems to be a common thing to do.
+- Don't just generate simple queries like "Which cereal has the most sugar?" that can trivially be found with a spreadsheet. Further, try not to make all of your questions be about correlations, which seems to be a common thing to do. Look to the lectures on Data, Interactions, or Tasks if you feel stuck about what types of things you may want to look for in the data. 
 
 ## 3. Load and examine the dataset into the Tableau:
 Load your chosen dataset into Tableau, then consider your hypotheses, tasks, and questions. Also use the system to explore the dataset and see if you can discover other interesting or unexpected findings in the data. Put yourself in the shoes of a data analyst, and consider questions that such a person would confront.
