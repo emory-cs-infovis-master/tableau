@@ -7,7 +7,7 @@ The goals of the assignment are for you to learn the capabilities provided by th
 The assignment has four parts:
 
 ## 1. Gain familiarity with the system:
-Familiarize yourself with the visualization techniques and the user interface of Tableau. It has a helpful tutorial video you should watch (Getting started - https://www.tableau.com/learn/training/20201. Watch the video to help become familiar with the system, its interface and its capabilities.
+Familiarize yourself with the visualization techniques and the user interface of Tableau. It has a helpful tutorial video you should watch (Getting started - https://www.tableau.com/learn/training/20201). Watch the video to help become familiar with the system, its interface and its capabilities.
 
 ## 2. Examine the sample datasets:
 Tableau includes a few sample datasets, but often it's best to learn with something new. Three datasets are supplied with this repository for you to consider: county prison admissions (3143 items, 16 variables), tennis statistics (2781 items, 49 variables), and title IX cases (502 items, 10 variables). You are free to pick the one set that is most interesting to you. Alternatively, consult the Resources section on the course webpage to select a dataset for a different topic of interest. Briefly scan the text of the file and familiarize yourself with the variables. Generate and write down (you will need to turn them in) a few hypotheses to be considered or questions to be asked about the data elements. Think about all the different kinds of analysis tasks that a person might want to perform in working with datasets such as these. For instance, someone working with a dataset about breakfast cereals might have tasks like:
